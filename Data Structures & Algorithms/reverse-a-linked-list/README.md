@@ -1,0 +1,4 @@
+- had to refresh mind on what linked list is
+- took a long time visualizing linked list
+- had to look up solution
+- should do this problem again
